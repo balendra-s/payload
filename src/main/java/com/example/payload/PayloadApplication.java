@@ -8,6 +8,7 @@ public class PayloadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PayloadApplication.class, args);
+		System.out.println("Spring boot application started!");
 	}
 
 }
